@@ -1,0 +1,12 @@
+/Users/yuanhaocheng/Desktop/codes_c#/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/yuanhaocheng/Desktop/codes_c#/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/yuanhaocheng/Desktop/codes_c#/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/yuanhaocheng/Desktop/codes_c#/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/yuanhaocheng/Desktop/codes_c#/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/yuanhaocheng/Desktop/codes_c#/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
